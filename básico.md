@@ -21,7 +21,7 @@
 ## Almacenamiento
 
 - TreeSize ``Explorar los discos y muestra cuanto pesa cada carpeta``
-- WinRAR
+- WinRAR [_Quitar cartel_](https://www.youtube.com/watch?v=iPuQKm09yfU)
 
 ## Backup
 
