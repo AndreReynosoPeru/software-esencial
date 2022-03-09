@@ -39,3 +39,4 @@
 ## Productividad
 
 - WinOff ``Programar una hora de apagado o cuando ya no se use la red``
+- ShareX ``Captura de pantalla, y algunas utilidades más como capturar color de cualquier parte de la pantalla``
