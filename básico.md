@@ -40,3 +40,7 @@
 
 - WinOff ``Programar una hora de apagado o cuando ya no se use la red``
 - ShareX ``Captura de pantalla, y algunas utilidades más como capturar color de cualquier parte de la pantalla``
+
+## Seguridad
+
+- Glasswire ``Firewall con buena interfaz y de fácil usabilidad`` || - TinyWall ``Lo mismo pero más barato``
