@@ -13,3 +13,4 @@ Algunos detalles de la instalación y su resultado. Esta sección me ayudará a 
 - DxO PureRAW ``Me ha dado buenos resultados`` | 09/03/22
 - Sandboxie-plus ``Muy bueno`` | 09/03/22
 - AHK (auto hot key) | 09/03/22
+- FDM (free downloader manager) | 09/03/22
